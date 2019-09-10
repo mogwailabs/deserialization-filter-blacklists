@@ -1,4 +1,4 @@
-# deserialization-filter-blacklist
+# JEP 290 blacklist filter policy
 
 This repository contains a black list for classes that are used in publicly known Java deserialization gadget chains. It can be used with the pattern-based serialization filter from Java 9. This functionallity was also backported to older Java versions:
 - Java 8 - 8u121 
